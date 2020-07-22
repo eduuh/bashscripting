@@ -1,0 +1,2 @@
+FROM ubuntu:latest 
+COPY abc.txt /src/abc.txt
